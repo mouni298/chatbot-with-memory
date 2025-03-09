@@ -17,7 +17,7 @@ This project is a chatbot application that uses a language model and memory to p
    cd chatbot-wstreamlit run app.pyith-memory
 2. **Install the dependecies**:
     ```sh
-    pip install -r requirements.txtSure! Here is a sample `README.md` file for your project:
+    pip install -r requirements.txt
 3. **Set up environment variables**:
    Create a .env file in the project directory and add your Google Vertex AI API key:
    ```env
